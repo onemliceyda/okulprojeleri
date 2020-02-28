@@ -1,0 +1,7 @@
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\obj\Debug\Odev2_g181210107_2A.csprojAssemblyReference.cache
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\obj\Debug\Odev2_g181210107_2A.csproj.CoreCompileInputs.cache
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\bin\Debug\Odev2_g181210107_2A.exe.config
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\bin\Debug\Odev2_g181210107_2A.exe
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\bin\Debug\Odev2_g181210107_2A.pdb
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\obj\Debug\Odev2_g181210107_2A.exe
+C:\Users\CEYDAONEMLI\source\repos\Odev2_g181210107_2A\Odev2_g181210107_2A\obj\Debug\Odev2_g181210107_2A.pdb
